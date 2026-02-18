@@ -184,7 +184,7 @@ Customer satisfaction is our priority.
 </form>
 
 <p>📍 Location: Garin Dabai</p>
-<p>📞 Phone: 080XXXXXXXX</p>
+<p>📞 Phone: 09019073826</p>
 </section>
 
 <footer>
